@@ -96,12 +96,12 @@ Role-based notice management platform with authentication and admin controls.
 
 ---
 
----
 ## 🐍 Contribution Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Shivam-Shukla96/Shivam-Shukla96/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
+
 ---
 
 ## 🤝 Connect With Me
