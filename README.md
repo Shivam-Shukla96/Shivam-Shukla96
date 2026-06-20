@@ -1,14 +1,16 @@
-- 👋 Hi, I’m @Shivam-Shukla96
-- 👀 I’m interested in web development, AI and ML.
-- 🌱 I’m currently learning MERN stack, java programming, data structures and algorithms.
-- 📫 How to reach me shivam.learning96@gmail.com
 
-<!---
-Shivam-Shukla96/Shivam-Shukla96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-[LinkedIn]
-(https://www.linkedin.com/in/shivamshukla96/)
+# Hi, I'm Shivam Shukla 👋
 
-[Portfolio]
-(https://shivam-shukla-beta.vercel.app/)
+Software Engineer focused on building scalable web applications and AI-powered products.
+
+- 💻 Building full-stack applications with **React, Next.js, TypeScript, Node.js, Python, and SQL**
+- 🏗️ Interested in **software architecture, system design, developer tooling, and AI integration**
+- 🌱 Currently learning more about **distributed systems, backend engineering, cloud technologies, and machine learning**
+- 🚀 I enjoy turning ideas into production-ready software with clean architecture and great user experience.
+
+## Connect with me
+
+- 💼 **LinkedIn:** https://www.linkedin.com/in/shivamshukla96/
+- 🌐 **Portfolio:** https://shivam-shukla-beta.vercel.app/
+- 📫 **Email:** shivam.learning96@gmail.com
+
