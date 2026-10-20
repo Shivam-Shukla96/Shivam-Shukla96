@@ -14,7 +14,7 @@ I build scalable web applications, backend systems, and AI-powered products with
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://shivam-shukla-beta.vercel.app/">
+<a href="https://shivamshukla.tech?source=nnjlpy">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
 </a>
 
